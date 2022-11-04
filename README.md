@@ -1,2 +1,2 @@
-# personal_website
-My personal homepage
+# personal website
+jorissss.github.io
