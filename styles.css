@@ -18,14 +18,21 @@ h1 {
 }
 
 h2 {
-  color: #98971a;
+  /* color: #98971a; */
+  color: #b8bb26;
 }
 
 h3 {
+  color: #fabd2f;
 }
 
-a {
-  color: #458588;
+a:link {
+  /* color: #458588; */
+  color: #83a598;
+}
+
+a:visited {
+  color: #d3869b;
 }
 
 .content {
