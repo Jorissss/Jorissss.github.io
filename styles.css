@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Fira Mono", "ui-monospace", "Roboto Mono", "Courier New", Arial,
+    sans-serif;
+  background-color: #282828;
+  color: #ebdbb2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  /* color: #cc241d; */
+  color: #fb4934;
+}
+
+h2 {
+  color: #98971a;
+}
+
+h3 {
+}
+
+.content {
+  max-width: 720px;
+}
