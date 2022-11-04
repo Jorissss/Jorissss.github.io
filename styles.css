@@ -24,6 +24,10 @@ h2 {
 h3 {
 }
 
+a {
+  color: #458588;
+}
+
 .content {
   max-width: 720px;
 }
